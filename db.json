@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id":1, "title": "Noise Smart Watch", "price":2799, "description": "Take your pick from a plethora of Always On Display watch faces and see your day unfold.Navigate your way through a series of features with ease, thanks to the fully functional digital crown.Get the best-in-class calling experience with the Tru Sync feature that ensures a stable and fast connection every single time.", "img":"https://m.media-amazon.com/images/I/61jOliJK5CL._SX522_.jpg"
+        },
+        {
+            "id":2, "title": "Meta Quest 3 Headset", "price": 49999, "description": "Original VR Headset Sealed Packed in OEM Company Packaging from Meta Quest 3.Explore the best library of 500+ immersive apps and find your favorite content across gaming, fitness, wellness, entertainment, social experiences and more.", "img":"https://m.media-amazon.com/images/I/51jE5IdZerL._SX425_.jpg"
+        },
+        {
+            "id":3, "title": "Fujifilm Instax Mini Instatnt Camera", "price": 6499, "description": "Take bright photos no matter where and when!.Easy to use for the perfect close-up.", "img":"https://m.media-amazon.com/images/I/61+jaO2GeDL._SY355_.jpg"
+        },
+        {
+            "id":4, "title": "Dell Inspiron Laptop", "price":71299, "description":"Intel Core i7 1.70 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games With 16 GB DDR4 SDRAM of memory, runs as many programs as you want without losing the execution The 14 inches 1920 x 1080 screen provides a great movie watching experience. ", "img":"https://lh3.googleusercontent.com/spp/AE_ITi2hpfn7c9Rf7g1EEjYtZ6zFc77ReFKA1hhAUgk1zgE-DrUW9YGJzNT_j2FliktnPK03yBjRRCNsSP-2Ig_HDhLZbXn9bkv5JARYOv4jG-iXA5fhQCvtDtN6XQpiMhmcMBy-Voy7fzC0OTFFPJdcAqv5-SsWdf2h3bp2fO5xHS2Q3Z1ZyHwGSOBT3gI-hk1-XqwRmjeIwr0=s512-rw-pd-pc0x00ffffff"
+        },
+        {
+            "id":5, "title": "Boult earbuds wireless", "price":999, "description":"10 mins charge = 100 mins playtime. Lightning Boult Type-C fast charging makes this possible, getting your buds ready in no time.Low latency gaming.Have an uninterrupted gaming experience with no lags.", "img":"https://m.media-amazon.com/images/I/61LlQRdDZ2L._SX425_.jpg"
+        },
+        {
+            "id":6, "title": "Apple iphone 13 blue", "price": 52999, "description": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.15 cm (6.1-inch) Super Retina XDR display.A15 Bionic chip for lightning-fast performance", "img": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SX522_.jpg"
+        },
+        {
+            "id":7, "title": "Sony Earbuds wireless", "price": 9490, "description":"With an IPX4 water resistance rating, splashes and sweat won't stop these headphones, so you can keep on moving to the music.Enjoy up to 18 hours of listening, if you're in a hurry, 10 minutes' quick charging gives you up to 60 minutes of music playback", "img": "https://m.media-amazon.com/images/I/71+tGw-CD9L._SX425_.jpg"
+        },
+        {
+            "id":8, "title": "Boat Earphones with mic", "price": 699, "description": "Innovative housing design enables for easy adjustment and optimal wearing comfort with powerful 10mm drivers for sonic clarity, bass-driven stereo sound and good attenuation of ambient noise", "img": "https://m.media-amazon.com/images/I/61GOgFEeZPL._SY355_.jpg"
+        },
+        {
+            "id":9, "title": "Sony Camera mirrorless", "price": 79971, "description": "24.2MP, EXMOR CMOS sensor with outstanding light sensitivity;11 FPS continuous shooting with AF/AE.180 degree titltable touch LCD screen;ISO sensitivity up to 102400; High resolution, sensitivity and color reproduction capability;Smooth and stable AF.", "img": "https://m.media-amazon.com/images/I/61-yhe06tyL._SY355_.jpg"
+        },
+        {
+            "id":10, "title": "Apple MacBook Air", "price": 83990, "description": "All-Day Battery Life – Go longer than ever with up to 18 hours of battery life.Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.", "img": "https://m.media-amazon.com/images/I/71TPda7cwUL._SX522_.jpg"
+        }
+    ]
+}
